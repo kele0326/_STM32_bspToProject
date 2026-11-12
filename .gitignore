@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tool output / backups
+bspToProject_log.txt
+*.bak
+
+# Local test projects
+_test*/
+_synthetic_*/
+build/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
